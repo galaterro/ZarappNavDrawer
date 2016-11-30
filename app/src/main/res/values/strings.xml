@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zarapp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Paso Atrás</string>
+    <string name="total_cajas_peque_as">Total cajas Pequeñas:</string>
+    <string name="a_adir_caja_grande">Añadir caja Grande</string>
+    <string name="a_adir_caja_peque_a">Añadir caja Pequeña</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="paso_atr_s">Paso Atrás</string>
+    <string name="reset">Reset</string>
+    <string name="total_cajas_grandes">Total cajas Grandes:</string>
+    <string name="android_studio">Aplicación de ayuda para Zara</string>
+    <string name="mail">adrix1992@gmail.com</string>
+    <string name="content_desc_img">Imagen de fondo de cabecera del Nav Drawer (En construcción)</string>
+</resources>
